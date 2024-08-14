@@ -4,4 +4,10 @@
 
 ![Github with glasses](https://pngimg.com/uploads/github/github_PNG35.png)
 
-### MARKDOWN h3
+# Atividade3: Adicionando um exemplo de codigo
+
+```python
+n = 5
+while n > 1:
+  print(n)
+```
