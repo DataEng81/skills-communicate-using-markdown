@@ -1,5 +1,7 @@
-# MARKDOWN h1
+# Atividade1: Adicionar Cabeçalho
 
-## MARKDOWN h2
+# Atividade2: Adicionar uma imagem
+
+![Github with glasses](https://pngimg.com/uploads/github/github_PNG35.png)
 
 ### MARKDOWN h3
