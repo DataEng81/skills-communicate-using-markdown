@@ -11,3 +11,12 @@ n = 5
 while n > 1:
   print(n)
 ```
+
+# Atividade4: Adicionando Lista de Tarefas
+
+- [x] Atividade1 
+- [x] Atividade 2
+- [x] Atividade 3
+- [ ] Atividade 4
+
+      
